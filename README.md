@@ -1,6 +1,6 @@
 # SchematicManager
 The schematic system FlakePVP uses to ensure performance.
-- Clipboards are cached. You won't need to reasd the disk again.
+- Clipboards are cached. You won't need to read the disk again.
 - Schematics are queued to ensure that no two schematics load at the same time, ensuring performance no matter what.
 
 These changes to schematic loading ensure that the server will run smoothly.
